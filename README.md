@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there 👋, I am Rukhsana Khatun.
+#### I am full-stack web developer.
+![I am full-stack web developer.](https://media.licdn.com/dms/image/D5616AQFcfLtYMoepyg/profile-displaybackgroundimage-shrink_350_1400/0/1681100750184?e=1709164800&v=beta&t=NpX2RDcUYvnw9J7xGf0TrOvTLyj9AnHN1uYdrdGlci0)
+
+🚀 Welcome to my GitHub profile! I'm Rukhsana Khatun, a passionate and versatile full-stack web developer with a love for creating dynamic and user-friendly applications. My journey in the world of programming began with a curiosity for turning ideas into interactive experiences, and it has evolved into a deep-seated commitment to mastering the entire web development stack.
+
+💡 I specialize in both front-end and back-end technologies, crafting seamless and engaging user interfaces with HTML, CSS, and JavaScript, while also diving into the server-side realm with Node.js and Express. I'm comfortable working with database MySQL and I enjoy optimizing performance through efficient database design.
+
+🌐 On the front end, I have experience with popular frameworks like React and Vue.js, always striving to create responsive and intuitive user interfaces. I believe in the importance of writing clean, maintainable code and keeping up with industry best practices to deliver high-quality software.
+
+🛠️ When it comes to version control and collaboration, Git and GitHub are my go-to tools. I'm a firm believer in the power of open source, and I actively contribute to and learn from the thriving developer community.
+
+📚 Continuous learning is at the core of my development philosophy, and I'm always exploring new technologies and methodologies to stay ahead in this ever-evolving field. 
+
+🔗 Let's connect and collaborate! Feel free to explore my repositories, provide feedback, or reach out if you're interested in discussing potential projects or sharing insights. Together, let's build the future of the web!
+ My portfolio https://rukh-sana44-git-main-rukhsana-148.vercel.app/
+Happy coding! 🚀
 
 
-**Rukhsana-148/Rukhsana-148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: PHP/LARAVEL/VUE JS / REACT / JS / TAILWIND CSS/BOOTSTRAP/CSS/HTML 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Sheikh Hasin IT Park on an online movie ticket booking system named "POPCORN" 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about web develpoment 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Rukhsana-148)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rukhsana-khatun-252436267//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rukhsana.khatun.9028194)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rukhsana-148.github.io/Book_Search/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Rukhsana-148)](https://github.com/anuraghazra/github-readme-stats)
 
